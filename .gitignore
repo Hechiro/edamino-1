@@ -1,0 +1,6 @@
+test_bot.py
+test_client.py
+venv/
+__pycache__/
+device.json
+.idea/
