@@ -1,5 +1,5 @@
 # edamino
-
+`git clone https://github.com/SvytDola/edamino.git`
 
 # Installation
 To run the program, you need to install Python 3.7+ and all the requirements for the project are written in `requirements.txt` using the command `pip install -r requirements.txt` or in other ways
